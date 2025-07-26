@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.game-button {
+    background-color: transparent;
+    border: 3px solid white;
+    border-radius: 65px;
+    width: 130px;
+    height: 130px;
+    cursor: pointer;
+}
+
+.game-button img {
+    height: 100px;
+}
