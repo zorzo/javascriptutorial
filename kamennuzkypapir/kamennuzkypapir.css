@@ -6,12 +6,23 @@ body {
 .game-button {
     background-color: transparent;
     border: 3px solid white;
-    border-radius: 65px;
-    width: 130px;
-    height: 130px;
+    border-radius: 100px;
+    width: 200px;
+    height: 200px;
     cursor: pointer;
 }
 
 .game-button img {
-    height: 100px;
+    height: 190px;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+    font-size: xx-large;
+    
+}
+p {
+    font-size: xx-large;
+    color: white;
 }
